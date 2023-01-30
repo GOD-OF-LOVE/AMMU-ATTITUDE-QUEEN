@@ -1,6 +1,3 @@
-
-
-
 import random
 
 from QueenMusic import userbot

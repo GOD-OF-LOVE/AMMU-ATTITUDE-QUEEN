@@ -19,7 +19,7 @@ def song_markup(_, vidid):
                 text=_["SG_B_2"],
                 callback_data=f"song_helper audio|{vidid}",
             ),
-       InlineKeyboardButton(
+            InlineKeyboardButton(
                 text=_["SG_B_3"],
                 callback_data=f"song_helper video|{vidid}",
             ),

@@ -1,5 +1,3 @@
-
-
 import re
 import sys
 from os import getenv
@@ -14,7 +12,10 @@ API_HASH = getenv("API_HASH", "e9105ac6ff8c1333b039b3de92e42056")
 
 BOT_TOKEN = getenv("BOT_TOKEN", "5680467811:AAEdwm1WnKn7MLbrNZm1TATlfGGRz8cLuBc")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://moni:moni@cluster0.dnuoez7.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv(
+    "MONGO_DB_URI",
+    "mongodb+srv://moni:moni@cluster0.dnuoez7.mongodb.net/?retryWrites=true&w=majority",
+)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
@@ -61,8 +62,10 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 GITHUB_REPO = getenv("GITHUB_REPO", None)
 
-SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "d57337453396470a82a8b88c1b951a11" )
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "4fe5ad201b9a4756aa8f763baa07c42b" )
+SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "d57337453396470a82a8b88c1b951a11")
+SPOTIFY_CLIENT_SECRET = getenv(
+    "SPOTIFY_CLIENT_SECRET", "4fe5ad201b9a4756aa8f763baa07c42b"
+)
 
 VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "3"))
 
@@ -77,7 +80,10 @@ TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", "104857600"))
 TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
-STRING1 = getenv("STRING_SESSION", "BQDB9nfG3WqTPbAxRvrb8i_8UBm4WBOUkkSknXh_yRTFf_QEKq7mnhD-UPWL3YS1Rrlz-rFeZjbMG9wTRqUAGWrKyYdqoNwMjLmUYXj0rO2DBo-XpUEmvP29CVMf01ip6AuKRJc8kp49F7upgVHmASbmyw-hy5KD-tjts87k26Gn1XYBnN2wCilQBg7YegM2jCZ6-OqdBbQjKc8QZs-WVCgjUMGgFh_2EOueyf3LiRE0W2Jw1OAtaJYG-SKQYtsOiHmrgHymczZ8tEvXatbA3fpvVe3GiYYE87tax-OPG_KjeK4xsbMJ7GwklPguPTNYrOc8jnykjFGItdeK0Z9HEhouAAAAASxBNfgA")
+STRING1 = getenv(
+    "STRING_SESSION",
+    "BQDB9nfG3WqTPbAxRvrb8i_8UBm4WBOUkkSknXh_yRTFf_QEKq7mnhD-UPWL3YS1Rrlz-rFeZjbMG9wTRqUAGWrKyYdqoNwMjLmUYXj0rO2DBo-XpUEmvP29CVMf01ip6AuKRJc8kp49F7upgVHmASbmyw-hy5KD-tjts87k26Gn1XYBnN2wCilQBg7YegM2jCZ6-OqdBbQjKc8QZs-WVCgjUMGgFh_2EOueyf3LiRE0W2Jw1OAtaJYG-SKQYtsOiHmrgHymczZ8tEvXatbA3fpvVe3GiYYE87tax-OPG_KjeK4xsbMJ7GwklPguPTNYrOc8jnykjFGItdeK0Z9HEhouAAAAASxBNfgA",
+)
 STRING2 = getenv("STRING_SESSION3", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)

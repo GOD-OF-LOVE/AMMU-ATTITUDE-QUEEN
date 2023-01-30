@@ -13,8 +13,7 @@ import textwrap
 
 import aiofiles
 import aiohttp
-from PIL import (Image, ImageDraw, ImageEnhance, ImageFilter,
-                 ImageFont, ImageOps)
+from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont, ImageOps
 from youtubesearchpython.__future__ import VideosSearch
 
 from config import MUSIC_BOT_NAME, YOUTUBE_IMG_URL
@@ -60,9 +59,7 @@ async def gen_thumb(videoid):
         async with aiohttp.ClientSession() as session:
             async with session.get(thumbnail) as resp:
                 if resp.status == 200:
-                    f = await aiofiles.open(
-                        f"cache/thumb{videoid}.png", mode="wb"
-                    )
+                    f = await aiofiles.open(f"cache/thumb{videoid}.png", mode="wb")
                     await f.write(await resp.read())
                     await f.close()
 

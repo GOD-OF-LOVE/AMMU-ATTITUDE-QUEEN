@@ -1,6 +1,3 @@
-
-
-
 from QueenMusic.core.bot import AlexaBot
 from QueenMusic.core.dir import dirr
 from QueenMusic.core.git import git

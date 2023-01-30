@@ -288,6 +288,12 @@ async def start(client: Client, message: Message):
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ʜᴇʟʟᴏ, ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ\n✪ ᴛʜᴀɴᴋs ᴛᴏ ʏᴜᴋᴋɪ ᴛᴇᴀᴍ 🌼 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [🧚‍♀️ ⸢ ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ ᴍ𝔲𝔲 ⸥ 🧚‍♀️](https://t.me/suppor27)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ ʜᴇʟᴘ](https://t.me/suppor27)┓\n┣★ ʀᴇᴘᴏ › : [ ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ](https://github.com)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/FRADUMUU) ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ sᴛᴀʀ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━
 """,
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🌼 ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ ᴄʜᴀᴛ 💮", url=f"https://t.me/queenenetwork")]]
+            [
+                [
+                    InlineKeyboardButton(
+                        "🌼 ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ ᴄʜᴀᴛ 💮", url=f"https://t.me/queenenetwork"
+                    )
+                ]
+            ]
         ),
     )
