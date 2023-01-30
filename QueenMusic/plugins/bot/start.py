@@ -281,7 +281,7 @@ async def welcome(client, message: Message):
             return
 
 
-@app.on_message(commandpro(["/alive", "AMMU"]) & ~filters.edited)
+@app.on_message(commandpro(["/alive", "MONI"]) & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph//file/c93dd8ed49b8feeeadee1.jpg",
