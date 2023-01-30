@@ -25,7 +25,7 @@ selections = [
     "───▷───────",
     "──▷────────",
     "─▷─────────",
-    "▷──────────", 
+    "▷──────────",
 ]
 
 
@@ -46,9 +46,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(
-                text="  💞 ᴏᴡɴᴇʀ 💞", url=f"https://t.me/FRADUMUU"
-            ),
+            InlineKeyboardButton(text="  💞 ᴏᴡɴᴇʀ 💞", url=f"https://t.me/FRADUMUU"),
         ],
         [
             InlineKeyboardButton(
