@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", "5680467811:AAFAUCbpuSIprtn4mVHOwRqyyo36bUB6iD8"
 
 MONGO_DB_URI = getenv(
     "MONGO_DB_URI",
-    "mongodb+srv://ammu:ammu@cluster.0tqxoqn.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb+srv://moni:ammu@cluster0.dcufenj.mongodb.net/?retryWrites=true&w=majority",
 )
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
