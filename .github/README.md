@@ -2,7 +2,7 @@
 
 <h4 align="center"l, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/FRADUMUU"><img src="https://telegra.ph/file/" width="400"></a></p>
+<p align="center"><a href="https://t.me/joeljjsingh"><img src="https://telegra.ph/file/" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/ Qᴜᴇᴇɴop/Queen-music/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
@@ -15,7 +15,7 @@
 
 > ⭐️ Thanks to everyone for using Queen, That is the greatest pleasure we have !
 
-###  Qᴜᴇᴇɴ Choudhary– History
+###  Qᴜᴇᴇɴ support– History
 
 <a href="https://youtube.com/channel/UC_Yi9MsbqgianRifG1oSEtQ"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
@@ -131,10 +131,10 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ABOUT FOUNDER](https://t.me/FRADUMUU)
+- [ABOUT FOUNDER](https://t.me/joeljjsingh)
 - [ Qᴜᴇᴇɴ OP](https://telegra.ph//file/205be13f078d52d551fec.mp4)
-- [ Qᴜᴇᴇɴ TELEGRAM]https://t.me/FRADUMUU)
-- [ Qᴜᴇᴇɴ Chats](https://t.me/supporytu)
+- [ Qᴜᴇᴇɴ TELEGRAM]https://t.me/joeljjsingh)
+- [ Qᴜᴇᴇɴ Chats](https://t.me/tamil_fm_G)
 - [ Qᴜᴇᴇɴ op](https://telegra.ph//file/205be13f078d52d551fec.mp4)
 
 </details>
@@ -143,8 +143,8 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [Choudhary](https://t.me/FRADUMUU)
-- [love](https://t.me/supporytu)
+- [support](https://t.me/joeljjsingh)
+- [love](https://t.me/tamil_fm_G)
 
 </details>
 
@@ -153,8 +153,8 @@
 <br>
 
 # ❤️ Support
-<a href="https://t.me/FRADUMUU"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/supporytu"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/joeljjsingh"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/tamil_fm_G"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 <a href="https://t.me/OKXOfficial_English"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 <a href="https://t.me/FOR_Unfban"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
