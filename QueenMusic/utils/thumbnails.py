@@ -85,7 +85,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 150),
-            "TEAM UDANPIRAPPU",
+            "SONY NETWORK",
             fill="white",
             stroke_width=2,
             stroke_fill="white",
@@ -133,7 +133,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 600),
-            f"Powered By : TEAM UDANPIRAPPU",
+            f"Powered By : SONY NETWORK",
             (255, 255, 255),
             font=arial,
         )        
