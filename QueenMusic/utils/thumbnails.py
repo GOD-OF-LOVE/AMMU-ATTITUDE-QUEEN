@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 # Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
 #
@@ -7,6 +8,8 @@
 #
 # All rights reserved.
 
+=======
+>>>>>>> 4f895b3b8ccfadbaafea4c88c1d1412c8d23c668
 import os
 import re
 import textwrap
@@ -86,12 +89,10 @@ async def gen_thumb(videoid):
         name_font = ImageFont.truetype("assets/font.ttf", 30)
         para = textwrap.wrap(title, width=32)
         j = 0
-        draw.text(
-            (5, 5), f"Powered By:- © QUEEN & ® MUU", fill="Yellow", font=name_font
-        )
+        draw.text((20, 30), f"{MUSIC_BOT_NAME}👸", fill="white", font=name_font)
         draw.text(
             (600, 150),
-            f"QUEEN & ® MUU",
+            "SONY NETWORK",
             fill="white",
             stroke_width=2,
             stroke_fill="white",
@@ -134,6 +135,12 @@ async def gen_thumb(videoid):
         draw.text(
             (600, 550),
             f"Channel : {channel}",
+            (255, 255, 255),
+            font=arial,
+        )
+        draw.text(
+            (600, 600),
+            f"Powered By : SONY NETWORK",
             (255, 255, 255),
             font=arial,
         )
