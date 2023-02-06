@@ -46,19 +46,19 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="  🔱 𝐎ᴡɴᴇʀ 🔱", url=f"https://t.me/joeljjsingh"),
+            InlineKeyboardButton(text="  💞 ᴏᴡɴᴇʀ 💞", url=f"https://t.me/FRADUMUU"),
         ],
         [
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
-            InlineKeyboardButton(text=" 💌 ᴄʜᴀᴛ 💌", url=f"https://t.me/tamil_fm_G"),
+            InlineKeyboardButton(text=" 💌 Qᴜᴇᴇɴ ᴄʜᴀᴛ 💌", url=f"https://t.me/supporytu"),
         ],
         [
             InlineKeyboardButton(
-                text=f"🔱 𝐎ᴡɴᴇʀ 🔱",
-                url=f"https://t.me/joeljjsingh",
+                text=f"☀ Qᴜᴇᴇɴ ʟᴏᴠᴇ☀",
+                url=f"https://t.me/FRADUMUU",
             )
         ],
     ]
@@ -79,14 +79,14 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🔱 𝐎ᴡɴᴇʀ 🔱", url=f"https://t.me/joeljjsingh"),
+            InlineKeyboardButton(text="💞 ᴏᴡɴᴇʀ 💞", url=f"https://t.me/FRADUMUU"),
         ],
         [
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="💌 ᴄʜᴀᴛ 💌", url=f"https://t.me/tamil_fm_G"),
+            InlineKeyboardButton(text="💌 Qᴜᴇᴇɴ ᴄʜᴀᴛ 💌", url=f"https://t.me/supporytu"),
         ],
     ]
     return buttons
@@ -102,14 +102,14 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🔱 𝐎ᴡɴᴇʀ 🔱", url=f"https://t.me/joeljjsingh"),
+            InlineKeyboardButton(text="💞 ᴏᴡɴᴇʀ 💞", url=f"https://t.me/FRADUMUU"),
         ],
         [
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="💌 ᴄʜᴀᴛ 💌", url=f"https://t.me/tamil_fm_G"),
+            InlineKeyboardButton(text="💌 Qᴜᴇᴇɴ ᴄʜᴀᴛ 💌", url=f"https://t.me/supporytu"),
         ],
     ]
     return buttons

@@ -284,14 +284,14 @@ async def welcome(client, message: Message):
 @app.on_message(commandpro(["/alive", "MONI"]) & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/40974d17780e28ee36c2f.png",
-        caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ʜᴇʟʟᴏ, ֆօռʏ ʍʊֆɨƈ ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ\ 🌼 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ : [🦋𝐂𖽪֟፝𖾓𖽞┃𝐌͢𖽹𖽝፝֟𖽞𝛋᳟ყ┃❥⃟](https://t.me/joeljjsingh)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ ֆօռʏ ʍʊֆɨƈ]( ʜᴇʟᴘ](https://t.me/tamil_fm_G)┓\n┣★ ʀᴇᴘᴏ › : [ ֆօռʏ ʍʊֆɨƈ](](https://github.com)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/joeljjsingh) ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ sᴛᴀʀ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━
+        photo=f"https://telegra.ph//file/c93dd8ed49b8feeeadee1.jpg",
+        caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ʜᴇʟʟᴏ, ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ\n✪ ᴛʜᴀɴᴋs ᴛᴏ ʏᴜᴋᴋɪ ᴛᴇᴀᴍ 🌼 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [🧚‍♀️ ⸢ ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ ᴍ𝔲𝔲 ⸥ 🧚‍♀️](https://t.me/suppor27)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ ʜᴇʟᴘ](https://t.me/suppor27)┓\n┣★ ʀᴇᴘᴏ › : [ ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ](https://github.com)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/FRADUMUU) ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ sᴛᴀʀ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌼 ᴄʜᴀᴛ 💮", url=f"https://t.me/tamil_bfr"
+                        "🌼 ᴀᴛᴛɪᴛᴜᴅᴇ ǫᴜᴇᴇɴ ᴄʜᴀᴛ 💮", url=f"https://t.me/queenenetwork"
                     )
                 ]
             ]
