@@ -45,7 +45,7 @@ RESTART_COMMAND : ["reboot"]
 # Sudo Command
 ADDSUDO_COMMAND : ["addsudo"]
 DELSUDO_COMMAND : ["delsudo", "rmsudo"]
-SUDOUSERS_COMMAND : ["sudolist", "listsudo"]
+SUDOUSERS_COMMAND : ["sudolisters"]
 
 #Broadcast 
 BROADCAST_COMMAND : ["broadcast", "gcast"]
